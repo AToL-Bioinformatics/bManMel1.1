@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-462068-m84073_230713_055821_s2.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "bManMel1"
+scientific_name: "Manorina melanotis"
+busco_lineages: "passeriformes_odb10"
+taxid: 1931064

@@ -1,0 +1,26 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "bManMel1",
+  "scientific_name": "Manorina melanotis",
+  "taxon_id": 1931064,
+  "busco_odb10_dataset_name": "passeriformes",
+  "busco_odb12_dataset_name": "passeriformes",
+  "ncbi_class": "Aves",
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mito_code": 2,
+  "mitohifi_reference_species": "Epthianura albifrons",
+  "oatk_hmm_name": "aves",
+  "read_files": [
+    {
+      "name": "bpa-tsi-pacbio-hifi-462068-m84073_230713_055821_s2",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/tsi_staging/pacbio-hifi/BPAOPS-1445/20230726_TSI_AGRF_CAGRF230414583_m84073_230713_055821_s2/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-tsi-pacbio-hifi-462068-m84073_230713_055821_s2/resource/ede2e0629846d67117d8971d236c2ec0/download/462068_TSI_AGRF_m84073_230713_055821_s2.ccs.bam",
+          "md5sum": "ede2e0629846d67117d8971d236c2ec0"
+        }
+      ]
+    }
+  ]
+}

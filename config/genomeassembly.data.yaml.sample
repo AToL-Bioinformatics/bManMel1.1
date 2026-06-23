@@ -1,0 +1,5 @@
+
+- id: bManMel1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-462068-m84073_230713_055821_s2.fastq.gz
