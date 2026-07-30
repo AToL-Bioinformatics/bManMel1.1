@@ -18,7 +18,7 @@ busco_odb10_dataset_name: passeriformes
 busco_odb12_dataset_name: passeriformes
 dataset_id: bManMel1
 hic_motif: GATC,GANTC,CTNAG,TTAA
-mito_code: 2
+mitochondrial_genetic_code_id: 2
 mitohifi_reference_species: Epthianura albifrons
 ncbi_class: Aves
 oatk_hmm_name: aves
