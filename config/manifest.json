@@ -7,7 +7,7 @@
   "busco_odb12_dataset_name": "passeriformes",
   "ncbi_class": "Aves",
   "hic_motif": "GATC,GANTC,CTNAG,TTAA",
-  "mitochondrial_genetic_code_id": 2,
+  "mito_code": 2,
   "mitohifi_reference_species": "Epthianura albifrons",
   "oatk_hmm_name": "aves",
   "read_files": [
