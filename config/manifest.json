@@ -10,6 +10,7 @@
   "mitochondrial_genetic_code_id": 2,
   "mitohifi_reference_species": "Epthianura albifrons",
   "oatk_hmm_name": "aves",
+  "assembly_id": "d02e3a99-3b05-4248-9864-18d74f444a2f",
   "read_files": [
     {
       "name": "bpa-tsi-pacbio-hifi-462068-m84073_230713_055821_s2",
